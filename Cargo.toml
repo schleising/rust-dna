@@ -5,3 +5,4 @@ authors = ["Stephen Schleising <stephen@schleising.net>"]
 edition = "2018"
 
 [dependencies]
+glob = "0.3.0"
