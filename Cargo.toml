@@ -1,5 +1,5 @@
 [package]
-name = "hello_cargo"
+name = "rust-dna"
 version = "0.1.0"
 authors = ["Stephen Schleising <stephen@schleising.net>"]
 edition = "2018"
